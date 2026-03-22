@@ -1,6 +1,4 @@
-<H2> Universal Uninstaller is a PowerShell-Script in combination with Windows Forms to silently uninstall sofware and executing powershell/cmd commands on a computer. </H2>
-
-The script is meant to support it admins or similar occupations in thier daylie doing. It should help you to minimize work while managing remote windows computers. Beside uninstall programs, its also capable of executing powershell and cmd commands on the remote computer. All commands are executed silenty, if a program do not support a silent uninstallation, it wont be visible either.
+<H2> Universal Uninstaller is a PowerShell-Script combined with Windows Forms to silently uninstall sofware and execute powershell/cmd commands on remote computers. </H2>
 
 
 <H2> Installation </H2>
